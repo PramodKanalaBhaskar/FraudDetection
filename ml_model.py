@@ -5,3 +5,5 @@ def model1():
 
 def model2():
     print("Model2")
+
+print("Model 2 is performing better")
